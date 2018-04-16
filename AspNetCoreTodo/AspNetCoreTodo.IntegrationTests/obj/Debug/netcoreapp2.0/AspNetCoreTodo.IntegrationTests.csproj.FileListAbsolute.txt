@@ -1,0 +1,3 @@
+C:\Users\PC-casa\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\PC-casa\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\PC-casa\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.IntegrationTests.AssemblyInfo.cs

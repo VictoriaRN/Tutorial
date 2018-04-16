@@ -1,0 +1,17 @@
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\app.db
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.deps.json
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.runtimeconfig.json
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.runtimeconfig.dev.json
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.dll
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.pdb
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.AssemblyInfoInputs.cache
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.AssemblyInfo.cs
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.csproj.CopyComplete
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.dll
+C:\Users\PC-casa\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.pdb
